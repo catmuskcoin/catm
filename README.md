@@ -1,0 +1,1 @@
+CATMuskCoin is a decentralized NFT farming platform built on the BNB chain. The platform includes a wide list of products such as DEX, NFT Marketplace and NFT Farming. You will be able to exchange coins, farm NFTs, buy and sell NFT collections in one place.
